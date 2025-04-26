@@ -1,0 +1,15 @@
+.Alert{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color:salmon;
+    color: white;
+    font-size: 14px;
+}
+
+.Alert span {
+    cursor: pointer;
+    margin-left: auto;
+}

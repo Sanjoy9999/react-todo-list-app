@@ -1,0 +1,24 @@
+
+
+
+https://vite.dev/guide/
+
+
+npm create vite@latest
+
+cd react-todo-list
+
+npm install 
+
+npm run dev
+
+======================================
+
+api 
+
+https://mockapi.io/
+
+
+css loaders
+
+https://css-loaders.com/dots/
